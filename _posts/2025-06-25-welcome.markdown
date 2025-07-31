@@ -1,7 +1,0 @@
----
-layout: post
-title:  "Welcome!"
-date:   2025-06-25 20:10:06 -0700
-categories: logistics
----
-Welcome to my blog. I'll be writing about various algorithmic techniques related to AI efficiency.

@@ -2,7 +2,7 @@
 layout: post
 title:  "KV Sharing"
 date:   2025-07-31 00:00:00 -0700
-categories: transformer
+categories: blog
 ---
 Test $$a^2 + b^2 = 1$$.
 
